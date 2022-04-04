@@ -1,0 +1,9 @@
+C:\OneDrive - Servicio Nacional de Aprendizaje\Documentos\2251848 - ADSI\CalculadoradeImpuestosTest\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\OneDrive - Servicio Nacional de Aprendizaje\Documentos\2251848 - ADSI\CalculadoradeImpuestosTest\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\OneDrive - Servicio Nacional de Aprendizaje\Documentos\2251848 - ADSI\CalculadoradeImpuestosTest\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\OneDrive - Servicio Nacional de Aprendizaje\Documentos\2251848 - ADSI\CalculadoradeImpuestosTest\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive - Servicio Nacional de Aprendizaje\Documentos\2251848 - ADSI\CalculadoradeImpuestosTest\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\OneDrive - Servicio Nacional de Aprendizaje\Documentos\2251848 - ADSI\CalculadoradeImpuestosTest\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\OneDrive - Servicio Nacional de Aprendizaje\Documentos\2251848 - ADSI\CalculadoradeImpuestosTest\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\OneDrive - Servicio Nacional de Aprendizaje\Documentos\2251848 - ADSI\CalculadoradeImpuestosTest\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\OneDrive - Servicio Nacional de Aprendizaje\Documentos\2251848 - ADSI\CalculadoradeImpuestosTest\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
