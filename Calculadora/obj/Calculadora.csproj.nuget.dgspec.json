@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SENA\\Downloads\\CalculadoradeImpuestosTest\\CalculadoradeImpuestosTest\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\SENA\\Downloads\\CalculadorAlvaro\\CalculadoraDeImpuesto\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SENA\\Downloads\\CalculadoradeImpuestosTest\\CalculadoradeImpuestosTest\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\SENA\\Downloads\\CalculadorAlvaro\\CalculadoraDeImpuesto\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENA\\Downloads\\CalculadoradeImpuestosTest\\CalculadoradeImpuestosTest\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\SENA\\Downloads\\CalculadorAlvaro\\CalculadoraDeImpuesto\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\SENA\\Downloads\\CalculadoradeImpuestosTest\\CalculadoradeImpuestosTest\\Calculadora\\Calculadora.csproj",
+        "projectPath": "C:\\Users\\SENA\\Downloads\\CalculadorAlvaro\\CalculadoraDeImpuesto\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENA\\Downloads\\CalculadoradeImpuestosTest\\CalculadoradeImpuestosTest\\Calculadora\\obj\\",
+        "outputPath": "C:\\Users\\SENA\\Downloads\\CalculadorAlvaro\\CalculadoraDeImpuesto\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",

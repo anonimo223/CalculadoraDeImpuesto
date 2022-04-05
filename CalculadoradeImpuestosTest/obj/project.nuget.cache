@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0yDA8hnoYBsQ6XS68S9JiCYEcZpJUBM3nlGsDVD6EcYaSlYQogIXXxe7JRmHIJgiZ3glPAenJ6yR1cnheW/08g==",
+  "dgSpecHash": "r/56DFuWSy31rz4r4e6Z29c4xZm8aJn2A2svJLlN5jtFvfOiRMPbnGclrJ09edjhD3mcgzou5FuUps8gEUOoVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SENA\\Downloads\\CalculadoradeImpuestosTest\\CalculadoradeImpuestosTest\\CalculadoradeImpuestosTest\\CalculadoradeImpuestosTest.csproj",
+  "projectFilePath": "C:\\Users\\SENA\\Downloads\\CalculadorAlvaro\\CalculadoraDeImpuesto\\CalculadoradeImpuestosTest\\CalculadoradeImpuestosTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SENA\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\SENA\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
